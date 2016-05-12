@@ -6,4 +6,4 @@ Demo para escrever nossa historia
 [Thierry](https://github.com/Thithi32)
 
 
-[Matheus] (https://github.com/matheusmabo)
+[Matheus](https://github.com/matheusmabo)
